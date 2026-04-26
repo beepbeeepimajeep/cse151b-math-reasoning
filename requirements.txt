@@ -1,0 +1,10 @@
+numpy
+sympy
+transformers
+torch
+bitsandbytes
+vllm
+tqdm
+antlr4-python3-runtime==4.11.1
+jupyter
+ipykernel
