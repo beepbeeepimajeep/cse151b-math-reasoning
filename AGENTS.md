@@ -8,6 +8,13 @@ This is a CSE 151B Kaggle competition project.
 - Do not use external tools, hosted APIs, or network services at inference time.
 - Do not modify files under `data/` unless explicitly asked.
 
+## Output Format
+
+- Model answers must be in `\boxed{<answer>}` format (letter for MCQ, value/expression for free-form)
+- Ensure inference code extracts answers by parsing `\boxed{}` consistently
+
+---
+
 ## Implementation Style
 
 - Prefer simple, readable Python over clever abstractions.

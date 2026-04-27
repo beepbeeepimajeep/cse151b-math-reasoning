@@ -31,7 +31,7 @@ When reviewing Codex output:
 
 ## Prompt Engineering
 
-- Output format must be: `FINAL: <answer>`
+- Output format must be: `\boxed{<answer>}` (letter for MCQ, value/expression for free-form)
 - Instructions must be explicit and unambiguous
 - Prioritize reasoning quality and extraction reliability
 
